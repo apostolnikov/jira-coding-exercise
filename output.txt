@@ -1,0 +1,3 @@
+Backend: 65 issues
+Synchronization: 12 issues
+Templates: 25 issues
